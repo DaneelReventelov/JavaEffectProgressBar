@@ -1,4 +1,4 @@
-<jnlp spec="1.0+" codebase="http://java-Effect-progress-bar.googlecode.com/git/" href="IllusionProgressBar.jnlp">
+<jnlp spec="1.0+" codebase="https://github.com/DaneelReventelov/JavaEffectProgressBar/raw/master/">
     <information>
         <title>EffectProgressBar Demo</title>
         <vendor>Daneel Reventelov</vendor>
