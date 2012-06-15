@@ -1,0 +1,12 @@
+<jnlp spec="1.0+" codebase="http://java-Effect-progress-bar.googlecode.com/git/" href="IllusionProgressBar.jnlp">
+    <information>
+        <title>EffectProgressBar Demo</title>
+        <vendor>Daneel Reventelov</vendor>
+    </information>
+    <resources>
+        <!-- Application Resources -->
+        <j2se version="1.7+"/>
+		<jar href="EffectProgressBar.jar"/>
+    </resources>
+    <application-desc main-class="Loader"/>
+</jnlp>
