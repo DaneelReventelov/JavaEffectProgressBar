@@ -40,7 +40,8 @@ Todo:
 
 >* Many other things...
 
-
-
+Try the demo via Java Web Start, click here:
+[<img src="https://github.com/DaneelReventelov/JavaEffectProgressBar/raw/master/Screenshot/jws-launch-button.png">][1]
+[1]: https://github.com/DaneelReventelov/JavaEffectProgressBar/raw/master/EffectProgressBar.jnlp "Java Web Start Demo"
 
 This software is released under Eclipse Public License - v 1.0
